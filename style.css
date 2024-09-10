@@ -4,3 +4,6 @@ body {
 p {
     color: rgb(154, 83, 83);
 }
+h1 {
+    font-style: calc();
+}
