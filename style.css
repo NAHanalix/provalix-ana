@@ -1,9 +1,13 @@
 body {
-    background-color: pink;
+    background-color: rgb(255, 182, 198);
 }
 p {
-    color: rgb(154, 83, 83);
+    color: rgb(153, 35, 64);
 }
 h1 {
     font-style: calc();
+}
+.tingnigning {
+    color: hotpink;
+    font-size: 20px ;
 }
